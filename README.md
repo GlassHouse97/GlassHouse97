@@ -1,4 +1,4 @@
-## 🙋‍♂️ Hi there !! I'm Chris Delgado
+## 🙋‍♂️ Hi there !!
 
 
 Hello, I’m **Chris Delgado** — a **Data Analyst** with experience turning raw data into clear, actionable insights.  
