@@ -1,7 +1,7 @@
 ## 🙋‍♂️ Hi there !! I'm Chris Delgado
 
 
-Hello, I’m **[Your Name]** — a **Data Analyst** with experience turning raw data into clear, actionable insights.  
+Hello, I’m **Chris Delgado** — a **Data Analyst** with experience turning raw data into clear, actionable insights.  
 I specialize in SQL-driven analysis, data modeling, and building dashboards that support business decision-making.
 
 **What I do best:**
