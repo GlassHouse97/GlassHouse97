@@ -32,6 +32,17 @@ Each project includes:
 
 ---
 
+
+### 📜 Certifications
+
+- **[Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/en-us/users/christopherdelgado-8682/credentials/e71ac6697ff6dc47?ref=https%3A%2F%2Fwww.linkedin.com%2F)**  
+  *Microsoft October 2025*
+
+- **[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/PTKFJQNWET7F?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)**  
+  *Coursera 2023*
+
+---
+
 ### 👋 Connect With Me
 
 - 💼 **LinkedIn:**  [LinkedIn](https://www.linkedin.com/in/christopherdelgadospage/)  
