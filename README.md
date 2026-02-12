@@ -61,7 +61,7 @@ Each project includes:
 
 ### 📊 Currently Working On
 - Improving query performance on large datasets  
-- Expanding my portfolio with end-to-end analytics case studies  ## Introducing Myself 👋
+- Expanding my portfolio with end-to-end analytics case studies
 
 <!--
 **GlassHouse97/GlassHouse97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
