@@ -27,8 +27,15 @@ Each project includes:
 
 ### 🛠️ Tools & Technologies
 
-- **Programming Languages:** SQL, Python, R, M/PowerQuery
-- **Tools/Technologies:** Google BigQuery, Looker Studio, Power BI  
+- **Programming Languages:**
+    - SQL
+    - Python
+    - R
+    - M/PowerQuery
+- **Tools/Technologies:**
+    - Google BigQuery
+    - Looker Studio
+    - Power BI  
 
 ---
 
