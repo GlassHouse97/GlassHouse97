@@ -15,7 +15,7 @@ I specialize in SQL-driven analysis, data modeling, and building dashboards that
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase selected projects demonstrating my analytical and technical skills:
+Welcome to my portfolio, where I showcase selected projects demonstrating my technical and analytical skills:
 
 Each project includes:
 - Business context & problem statement  
